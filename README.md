@@ -17,5 +17,7 @@ starter project.
 * visit `http://localhost:8080/`
 
 ## SVG icons
-Uses https://www.npmjs.com/package/@svgr/webpack plugin
-Can apply CSS styles to the SVG icons.
+Uses https://www.npmjs.com/package/@svgr/webpack plugin.  
+This setup allows to:
+- Import svg as react components
+- Apply CSS styles to the SVG icons.
