@@ -19,5 +19,5 @@ starter project.
 ## SVG icons
 Uses https://www.npmjs.com/package/@svgr/webpack plugin.  
 This setup allows to:
-- Import svg as react components
+- Import SVG as react components
 - Apply CSS styles to the SVG icons.
